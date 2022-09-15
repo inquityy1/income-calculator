@@ -18,7 +18,8 @@ export default function Table() {
   useEffect(() => {
     setTableInfo(JSON.parse(localStorage.getItem("salaryTotal")));
     setPickedFrequency(tableInfo?.frequency);
-  }, [tableInfo, setTableInfo, setPickedFrequency]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [setTableInfo, setPickedFrequency]);
 
   return (
     <div className="w-screen h-screen flex justify-center items-center bg-gradient-to-r from-pink-400 to-purple-600">
