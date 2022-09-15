@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/inquityy1/income-calculator/static/css/main.2e9aabaa.css",
+    "main.js": "/inquityy1/income-calculator/static/js/main.3e188f1d.js",
+    "static/js/565.a056a778.chunk.js": "/inquityy1/income-calculator/static/js/565.a056a778.chunk.js",
+    "static/js/797.4f5a21cf.chunk.js": "/inquityy1/income-calculator/static/js/797.4f5a21cf.chunk.js",
+    "static/js/787.633816a4.chunk.js": "/inquityy1/income-calculator/static/js/787.633816a4.chunk.js",
+    "index.html": "/inquityy1/income-calculator/index.html",
+    "main.2e9aabaa.css.map": "/inquityy1/income-calculator/static/css/main.2e9aabaa.css.map",
+    "main.3e188f1d.js.map": "/inquityy1/income-calculator/static/js/main.3e188f1d.js.map",
+    "565.a056a778.chunk.js.map": "/inquityy1/income-calculator/static/js/565.a056a778.chunk.js.map",
+    "797.4f5a21cf.chunk.js.map": "/inquityy1/income-calculator/static/js/797.4f5a21cf.chunk.js.map",
+    "787.633816a4.chunk.js.map": "/inquityy1/income-calculator/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e9aabaa.css",
+    "static/js/main.3e188f1d.js"
+  ]
+}
